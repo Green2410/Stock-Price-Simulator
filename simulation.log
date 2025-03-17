@@ -1,0 +1,97 @@
+2025-03-16 23:04:12,216 - INFO - Current Price: $213.49
+2025-03-16 23:04:12,217 - INFO - Annual Volatility: 24.87%
+2025-03-16 23:04:12,217 - INFO - Annual Expected Return: 21.98%
+2025-03-16 23:32:58,361 - INFO - Current Price: $213.49
+2025-03-16 23:32:58,362 - INFO - Annual Volatility: 24.87%
+2025-03-16 23:32:58,362 - INFO - Annual Expected Return: 21.98%
+2025-03-16 23:33:08,076 - INFO - Simulation Statistics:
+2025-03-16 23:33:08,076 - INFO - Probability of exceeding target: 82.40%
+2025-03-16 23:33:08,077 - INFO - Average final price: $263.80
+2025-03-16 23:38:35,776 - INFO - Current Price: $213.49
+2025-03-16 23:38:35,778 - INFO - Annual Volatility: 24.87%
+2025-03-16 23:38:35,778 - INFO - Annual Expected Return: 21.98%
+2025-03-16 23:38:46,439 - INFO - Simulation Statistics:
+2025-03-16 23:38:46,441 - INFO - Probability of exceeding target: 84.80%
+2025-03-16 23:38:46,441 - INFO - Average final price: $266.58
+2025-03-16 23:49:12,937 - INFO - Current Price: $213.49
+2025-03-16 23:49:12,950 - INFO - Annual Volatility: 24.87%
+2025-03-16 23:49:12,995 - INFO - Annual Expected Return: 21.98%
+2025-03-16 23:49:26,635 - INFO - Simulation Statistics:
+2025-03-16 23:49:26,636 - INFO - Probability of exceeding target: 84.40%
+2025-03-16 23:49:26,636 - INFO - Average final price: $264.62
+2025-03-17 00:03:20,755 - INFO - Current Price: $213.49
+2025-03-17 00:03:20,764 - INFO - Annual Volatility: 24.87%
+2025-03-17 00:03:20,764 - INFO - Annual Expected Return: 21.98%
+2025-03-17 00:03:24,465 - INFO - Probability of exceeding target: 86.40%
+2025-03-17 00:03:24,466 - INFO - Average final price: $265.20
+2025-03-17 00:10:55,661 - INFO - Current Price: $213.49
+2025-03-17 00:10:55,661 - INFO - Annual Volatility: 24.87%
+2025-03-17 00:10:55,662 - INFO - Annual Expected Return: 21.98%
+2025-03-17 00:10:58,407 - INFO - Probability of exceeding target: 85.50%
+2025-03-17 00:10:58,410 - INFO - Average final price: $267.65
+2025-03-17 00:11:45,356 - INFO - Current Price: $213.49
+2025-03-17 00:11:45,356 - INFO - Annual Volatility: 24.87%
+2025-03-17 00:11:45,360 - INFO - Annual Expected Return: 21.98%
+2025-03-17 00:11:46,834 - INFO - Average final price: $266.93%
+2025-03-17 00:11:46,834 - INFO - Median final price: $262.01%
+2025-03-17 00:11:46,835 - INFO - Standard Deviation of final price: $64.60%
+2025-03-17 00:11:46,835 - INFO - Minimum of final price: $103.48%
+2025-03-17 00:11:46,835 - INFO - Maximum of final price: $509.16%
+2025-03-17 00:11:46,835 - INFO - Final price - 5th percentile: $103.48%
+2025-03-17 00:11:46,836 - INFO - Final price - 95th percentile: $103.48%
+2025-03-17 00:11:46,836 - INFO - Probability of exceeding target: 86.20%
+2025-03-17 15:30:36,852 - INFO - Current Price: $213.49
+2025-03-17 15:30:36,852 - INFO - Annual Volatility: 24.87%
+2025-03-17 15:30:36,856 - INFO - Annual Expected Return: 21.98%
+2025-03-17 15:30:50,598 - INFO - Average final price: $264.58%
+2025-03-17 15:30:50,600 - INFO - Median final price: $257.68%
+2025-03-17 15:30:50,601 - INFO - Standard Deviation of final price: $65.42%
+2025-03-17 15:30:50,601 - INFO - Minimum of final price: $116.78%
+2025-03-17 15:30:50,603 - INFO - Maximum of final price: $576.03%
+2025-03-17 15:30:50,603 - INFO - Final price - 5th percentile: $116.78%
+2025-03-17 15:30:50,605 - INFO - Final price - 95th percentile: $116.78%
+2025-03-17 15:30:50,605 - INFO - Probability of exceeding target: 85.80%
+2025-03-17 15:31:50,422 - INFO - Current Price: $213.49
+2025-03-17 15:31:50,424 - INFO - Annual Volatility: 24.87%
+2025-03-17 15:31:50,424 - INFO - Annual Expected Return: 21.98%
+2025-03-17 15:31:52,352 - INFO - Average final price: $267.67
+2025-03-17 15:31:52,420 - INFO - Median final price: $259.27%
+2025-03-17 15:31:52,421 - INFO - Standard Deviation of final price: $68.95%
+2025-03-17 15:31:52,421 - INFO - Minimum of final price: $114.82%
+2025-03-17 15:31:52,428 - INFO - Maximum of final price: $543.07%
+2025-03-17 15:31:52,436 - INFO - Final price - 5th percentile: $114.82%
+2025-03-17 15:31:52,442 - INFO - Final price - 95th percentile: $114.82%
+2025-03-17 15:31:52,446 - INFO - Probability of exceeding target: 84.30%
+2025-03-17 15:32:21,749 - INFO - Current Price: $213.49
+2025-03-17 15:32:21,749 - INFO - Annual Volatility: 24.87%
+2025-03-17 15:32:21,749 - INFO - Annual Expected Return: 21.98%
+2025-03-17 15:32:26,319 - INFO - Average final price: $267.46
+2025-03-17 15:32:26,322 - INFO - Median final price: $261.07
+2025-03-17 15:32:26,322 - INFO - Standard Deviation of final price: $68.19
+2025-03-17 15:32:26,324 - INFO - Minimum of final price: $116.53
+2025-03-17 15:32:26,324 - INFO - Maximum of final price: $630.22
+2025-03-17 15:32:26,324 - INFO - Final price - 5th percentile: $116.53
+2025-03-17 15:32:26,326 - INFO - Final price - 95th percentile: $116.53
+2025-03-17 15:32:26,326 - INFO - Probability of exceeding target: 84.20
+2025-03-17 23:44:59,074 - INFO - Current Price: $214.37
+2025-03-17 23:44:59,074 - INFO - Annual Volatility: 24.86%
+2025-03-17 23:44:59,075 - INFO - Annual Expected Return: 21.76%
+2025-03-17 23:45:03,568 - INFO - Average final price: $265.19
+2025-03-17 23:45:03,568 - INFO - Median final price: $257.55
+2025-03-17 23:45:03,569 - INFO - Standard Deviation of final price: $66.79
+2025-03-17 23:45:03,569 - INFO - Minimum of final price: $118.42
+2025-03-17 23:45:03,569 - INFO - Maximum of final price: $584.97
+2025-03-17 23:45:03,569 - INFO - Final price - 5th percentile: $118.42
+2025-03-17 23:45:03,569 - INFO - Final price - 95th percentile: $118.42
+2025-03-17 23:45:03,570 - INFO - Probability of exceeding target: 85.20
+2025-03-17 23:56:38,087 - INFO - Current Price: $214.72
+2025-03-17 23:56:38,088 - INFO - Annual Volatility: 24.87%
+2025-03-17 23:56:38,088 - INFO - Annual Expected Return: 21.92%
+2025-03-17 23:56:38,177 - INFO - Average final price: $271.93
+2025-03-17 23:56:38,177 - INFO - Median final price: $263.09
+2025-03-17 23:56:38,178 - INFO - Standard Deviation of final price: $70.63
+2025-03-17 23:56:38,178 - INFO - Minimum of final price: $133.50
+2025-03-17 23:56:38,178 - INFO - Maximum of final price: $558.36
+2025-03-17 23:56:38,178 - INFO - Final price - 5th percentile: $133.50
+2025-03-17 23:56:38,178 - INFO - Final price - 95th percentile: $133.50
+2025-03-17 23:56:38,180 - INFO - Probability of exceeding target: 85.70

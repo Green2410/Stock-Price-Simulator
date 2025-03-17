@@ -1,0 +1,4 @@
+simulation:
+  days: 252
+  num_simulations: 1000
+target_price: 200.0
