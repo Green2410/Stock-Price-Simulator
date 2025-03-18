@@ -149,7 +149,7 @@ def main():
                 # Add explanatory text
                 with st.expander("How to interpret these results"):
                     st.markdown("""
-                    ### Understanding Monte Carlo Simulation Results
+                    ### Understanding the Results
                     
                     - **Price Paths Graph**: Each light blue line represents one possible future price path. The red line shows the average of all simulations.
                     
@@ -158,6 +158,7 @@ def main():
                     - **Probability of Target**: The percentage of simulations where the final price was at or above your target price.
                     
                     - **Percentiles**: The 5th percentile means that in 5% of simulations, the price was below this value. The 95th percentile means that in 95% of simulations, the price was below this value.
+                    
                     
                     Remember that these simulations are based on historical data and assume that future price movements will follow similar patterns. Market conditions can change, and past performance is not indicative of future results.
                     """)
